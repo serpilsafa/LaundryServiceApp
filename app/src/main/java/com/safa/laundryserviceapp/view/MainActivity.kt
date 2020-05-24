@@ -102,6 +102,7 @@ class MainActivity : AppCompatActivity() {
         profile_linearLayout.visibility = View.GONE
         category_toolbar.visibility = View.GONE
         navigationView.visibility = View.GONE
+        content_frameLayout.visibility = View.GONE
         progressBar.visibility = View.VISIBLE
     }
 
@@ -139,6 +140,7 @@ class MainActivity : AppCompatActivity() {
                 profile_linearLayout.visibility = View.VISIBLE
                 category_toolbar.visibility = View.VISIBLE
                 navigationView.visibility = View.VISIBLE
+                content_frameLayout.visibility = View.VISIBLE
                 progressBar.visibility = View.GONE
             }
         })
