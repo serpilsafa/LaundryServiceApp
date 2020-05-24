@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_language"
+        android:icon="@drawable/icons_greatbritain"
+        android:title="flag"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/navigation_basket"
+        android:icon="@drawable/icons_basket"
+        android:title="basket"
+        app:showAsAction="ifRoom"/>
+</menu>

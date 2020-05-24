@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LaundryServiceApp</string>
+    <string name="login_text">Log in</string>
+    <string name="input_name">Enter your name</string>
+    <string name="user_name">Bence</string>
+    <string name="user_welcome">Hey there,</string>
+    <string name="login_dialog_title">Alert</string>
+    <string name="login_dialog_message">You have to enter your name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
